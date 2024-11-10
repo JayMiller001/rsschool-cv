@@ -12,27 +12,25 @@ belt. easy going and manages fairly well as a team player and as a solo person, 
 
 ## KEY SKILLS
 
-```
 **Language tutor**
 **Polylingual**
 Microsoft Office
-```
-```
+
 Report writing and presenting
 Critical thinking skills
 **DevOps**
 Excellent communication skills
-```
-```
+
+
 Accounting
 Sales
 **IT Technician**
-```
-```
+
+
 customer support
 programming: python, JS, CSS, HTML
 Editing
-```
+
 ## PROFESSIONAL EXPERIENCE
 
 Self employed - online Aug 2021 - Feb 2023 Language Tutor
