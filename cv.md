@@ -12,24 +12,9 @@ belt. easy going and manages fairly well as a team player and as a solo person, 
 
 ## KEY SKILLS
 
-**Language tutor**
-**Polylingual**
-Microsoft Office
-
-Report writing and presenting
-Critical thinking skills
-**DevOps**
-Excellent communication skills
-
-
-Accounting
-Sales
-**IT Technician**
-
-
-customer support
-programming: python, JS, CSS, HTML
-Editing
+- **Language tutor**     - Report writing and presenting     - Excellent communication skills     - **IT Technician**
+- **Polylingual**        - Critical thinking skills          - Accounting                         - customer support
+- Microsoft Office       - **DevOps**                        - Sales                              - **programming: python, JS, CSS, HTML**
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -53,7 +38,8 @@ hardware and software systems. Proficient in troubleshooting, network administra
 problemsolving skills with a commitment to delivering excellent customer service.
 
 ## CODE EXAMPLES
-https://github.com/JayMiller001/sandbox1/blob/2023/autocopy
+
+Kind of my first complete app: [AutoCopyApp](https://github.com/JayMiller001/sandbox1/blob/2023/autocopy)
 
 ## EDUCATION
 
