@@ -54,14 +54,14 @@ windows server (IT company)
 
 I had English practice from many sources across multiple fields, and mostly they are as follows:
 
-### elite high school
+### 1. elite high school
 
 my middle school and high school curriculums were entirely in English from UK sources even though it is in a relatively behind Arabic country.
 
-### tutoring
+### 2. tutoring
 
 they say the best way to learn is by teaching, I have an abundance of experience teaching many levels of English to many people ranging from general English to ielts/toefl preparation.
 
-### constant usage
+### 3. constant usage
 
 in the last 10 years I have used English in a gradually increasing manner until it became my main language, in the last 4 years I have used it more than any language
