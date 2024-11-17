@@ -1,0 +1,11 @@
+:root {
+    --bg: #1D262D;
+    --primary: #311996;
+    --white: #F8F0E4;
+    --text: #F8F0E4;
+    --accent: #E12179;
+    --accent2: linear-gradient(0deg, #BC1964 0%, #311996 100%);
+    --hover: linear-gradient(0deg, #BC1964 0%, #311996 100%);
+    --max-width: 1440px;
+    --content-width: 1200px;
+  }
