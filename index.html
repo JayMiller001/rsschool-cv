@@ -1,13 +1,109 @@
-<!DOCTYPE html>
-<html">
-    <head>
-        <title>CV</title>
-    </head>
-    <body>
-        <h1>CV</h1>
-        <p>content for the cv</p>
-        <p>test1
-             <strong>test2</strong> and <em> test3 </em>.
-        </p>
-    </body>
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My CV</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <img src="./images/photo_2024-11-18_02-33-34-2.jpg" alt="Author's photo - cute little Ahmed" class="avatar">
+      <h1>Ahmed Alshepri</h1>
+      <h2>Aspiring Fullstack Developer</h2>
+      <nav>
+        <ul>
+          <li><a href="#about">About Me</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm an Aspiring Fullstack Developer with experience in building responsive and user-friendly web applications.</p>
+      </section>
+
+      <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>HTML5, CSS3, JavaScript, Python, Devops</li>
+          <li>React</li>
+          <li>Git, GitHub</li>
+          <li>Responsive Design, UX/UI</li>
+        </ul>
+      </section>
+
+      <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+          <li><a href="https://jaymiller001.github.io/rsschool-cv/">Project 1: Portfolio Website (This Website)</a></li>
+          <li><a href="https://github.com/JayMiller001/sandbox1/blob/2023/autocopy">Project 2: AutoCopy App</a></li>
+          <li><a href="https://JayMiller001.github.io/rsschool-cv/cv">Project 3: Markdown CV</a></li>
+        </ul>
+      </section>
+
+      <section id="education">
+        <h2>Education</h2>
+        <p><strong>Satbayev University (currently third year student)</strong></p>
+        <p>Undergraduate</p>
+        <p>2022 - 2026</p>
+        <p>English Level using EPAM test: C1+</p>
+        <p>Duolingo English Test Score: 155</p>
+      </section>
+
+      <section id="contact">
+        <h2>Contact</h2>
+        <ul>
+          <li>Email: ahmedkanaan01@gmail.com</li>
+          <li>Phone: +77471075350</li>
+          <li>GitHub: <a href="https://github.com/JayMiller001">Jay</a></li>
+        </ul>
+      </section>
+      <section id="code-example">
+        <h2>Code Example</h2>
+        <p>Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.</p>
+        <pre>
+          <code>
+      function duplicateCount(text) {
+        const lowerCaseInput = text.toLowerCase();
+        const charCounts = {};
+        
+        for (const char of lowerCaseInput) {
+          charCounts[char] = (charCounts[char] || 0) + 1;
+        }
+      
+        let duplicates = 0;
+        for (const char in charCounts) {
+          if (charCounts[char] > 1) {
+            duplicates++;
+          }
+        }
+      
+        return duplicates;
+      }
+          </code>
+        </pre>
+      </section>
+      
+    </main>
+    <footer>
+        <a class="my-github" href="https://github.com/JayMiller001">
+            <img class="github-icon" src="./icons/github.svg" alt="Github Icon" width="26" height="26">
+            <p>Visit my GitHub</p>
+          </a>
+          <p>© 2024</p>
+          <a href="https://rs.school/courses/javascript">
+            <img src="./icons/rsschool.svg" alt="Rsschool Icon" width="73" height="26">
+          </a>
+    </footer>
+  </div>
+</body>
+
 </html>
